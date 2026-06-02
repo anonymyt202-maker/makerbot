@@ -17,8 +17,8 @@ const axios = require('axios');
 // SOZLAMALAR
 // ============================================
 
-const API_KEY = "SHUNING TELEGRAM BOTINGIZNING TOKENI"; // Token o'rnatish
-const ADMIN = "6246669464"; // Admin ID
+const API_KEY = "8902679441:AAHT0r-V34Vkiq7AVHnfFzIXPneccHOOV5E"; // Token o'rnatish
+const ADMIN = "8512512542"; // Admin ID
 const API_URL = `https://api.telegram.org/bot${API_KEY}`;
 
 // ============================================
