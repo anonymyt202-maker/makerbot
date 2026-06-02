@@ -1,0 +1,31 @@
+{
+  "name": "telegram-bot-manager",
+  "version": "2.0.0",
+  "description": "Telegram Bot Management Platform - JavaScript Version",
+  "main": "bot_part3.js",
+  "scripts": {
+    "start": "node bot_part3.js",
+    "dev": "nodemon bot_part3.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "telegram",
+    "bot",
+    "management",
+    "platform"
+  ],
+  "author": "@muzadev",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "body-parser": "^1.20.2",
+    "axios": "^1.4.0",
+    "dotenv": "^16.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
